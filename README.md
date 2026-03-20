@@ -7,7 +7,6 @@ The project combines data preprocessing, model training, and web deployment into
 
 👉 https://laptopprice-predictionbnp-fdnbwhkekv8rfpzwmrs3bq.streamlit.app/
 
----
 
 **📌 Project Objective
 
@@ -57,7 +56,7 @@ Scikit-learn is used for preprocessing and building ML pipelines.
 - Train-test split
 - Encoding
 - Model evaluation
-- 
+  
 6️⃣ XGBoost (Machine Learning Model)
 XGBoost Regressor is used as the main model for prediction.
 
